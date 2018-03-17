@@ -1,3 +1,4 @@
 # hello-world
-just another hello-world repository
+Вносим справку, теперь другая вторая строчка
+Мама мыла раму
 **пока на этом закончим**
